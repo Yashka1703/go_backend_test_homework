@@ -1,5 +1,5 @@
 package main
-
+// домашка моя
 import (
 	"fmt"
 )
